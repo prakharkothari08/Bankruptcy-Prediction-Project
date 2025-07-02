@@ -63,8 +63,3 @@ The models achieved high overall accuracy but struggled with identifying the min
 - Ensemble methods or boosting
 - Cost-sensitive learning approaches
 
-
-
-## 📜 License
-
-This project is licensed under the MIT License.
