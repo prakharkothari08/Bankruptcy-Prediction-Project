@@ -63,24 +63,7 @@ The models achieved high overall accuracy but struggled with identifying the min
 - Ensemble methods or boosting
 - Cost-sensitive learning approaches
 
-## 📁 Files
 
-- `Bankruptcy_Prediction_ML.ipynb`: Jupyter notebook with code and results
-- `Machine Learning Bankruptcy Prediction.pdf`: Project report
-
-## 🧪 Requirements
-
-- Python 3.x
-- scikit-learn
-- pandas
-- numpy
-- matplotlib / seaborn (for visualization)
-
-Install dependencies with:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## 📜 License
 
